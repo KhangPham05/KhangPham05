@@ -10,11 +10,11 @@
 ║         ██║  ██║╚██████╔╝██║  ██║██║ ╚████║╚██████╔╝       ║
 ║         ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝       ║
 ║                                                              ║
-║                        I <3 ☁️            
+║              I <3 ☁️            
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KhangPham05&color=00ff41&style=flat-square&label=VISITORS)](https://github.com/KhangKham05)
+[![Profile Views](https://komarev.com/ghpvc/?username=KhangPham05&color=00ff41&style=flat-square&label=VISITORS)](https://github.com/KhangPham05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-pham-cs)
 
 </div>
@@ -71,11 +71,11 @@ STATUS="Always learning, always shipping"
 
 <div align="center">
 
-![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khangpham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhangPham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
