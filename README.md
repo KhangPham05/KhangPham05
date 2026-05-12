@@ -10,12 +10,12 @@
 ║         ██║  ██║╚██████╔╝██║  ██║██║ ╚████║╚██████╔╝       ║
 ║         ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝       ║
 ║                                                              ║
-║                           I <3 ☁️            
+║                        I <3 ☁️            
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=khangpham05&color=00ff41&style=flat-square&label=VISITORS)](https://github.com/khangpham05tv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-pham-)
+[![Profile Views](https://komarev.com/ghpvc/?username=KhangPham05&color=00ff41&style=flat-square&label=VISITORS)](https://github.com/KhangKham05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-pham-cs)
 
 </div>
 
@@ -28,7 +28,7 @@ $ cat /etc/profile.d/hoang.sh
 
 NAME="Hoang Pham"
 ROLE="SWE Student | Aspiring Cloud/DevOps Engineer"
-LOCATION="San Jose, CA 🇺🇸"
+LOCATION="San Jose, CA"
 COMPANY="@ SJSU"
 PHILOSOPHY="Automate everything. Build once. Scale forever."
 STATUS="Always learning, always shipping"
@@ -73,9 +73,9 @@ STATUS="Always learning, always shipping"
 
 ![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khangpham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khangpham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khangpham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
