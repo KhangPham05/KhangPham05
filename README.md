@@ -71,8 +71,8 @@ STATUS="Always learning, always shipping"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhangPham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhangPham05&theme=chartreuse_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhangPham05&theme=chartreuse_dark" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%" />
 
