@@ -71,11 +71,10 @@ STATUS="Always learning, always shipping"
 
 <div align="center">
 
-![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhangPham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=KhangPham05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+<img src="https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%" />
 
 </div>
 
@@ -104,8 +103,8 @@ always_open_to:
 ┌─────────────────────────────────────────────┐
 │  "Infrastructure is code. Code is art."     │
 │                                             │
-│  📧 khangpham05tv@gmail.com                 │
-│  🔗 linkedin.com/in/hoang-pham-             │
+│  📧 khangpham05tv@gmail.com                 |
+│  🔗 linkedin.com/in/hoang-pham-cs           │
 └─────────────────────────────────────────────┘
 ```
 
