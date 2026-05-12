@@ -80,20 +80,10 @@ STATUS="Always learning, always shipping"
 
 ---
 
-## 🚀 What I'm Up To
+## 📊 Dev Metrics
 
-```yaml
-current_focus:
-  - Studying Cloud & DevOps fundamentals
-  - Building hands-on projects with AWS & Docker
-  - Working toward AWS certifications
-  - Learning Kubernetes and Terraform
-
-always_open_to:
-  - Collaborating on backend / DevOps projects
-  - Cloud architecture discussions
-  - Open source contributions
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
