@@ -85,12 +85,13 @@ STATUS="Always learning, always shipping"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 06 May 2026 - To: 13 May 2026
 
-Total Time: 10 mins
+Total Time: 3 hrs 41 mins
 
-YAML       8 mins                ████████████████████▒░░░░   80.98 %
-Markdown   2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Go         3 hrs 27 mins         ███████████████████████▒░   93.97 %
+YAML       8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Markdown   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
