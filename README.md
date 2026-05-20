@@ -71,9 +71,6 @@ STATUS="Always learning, always shipping"
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhangPham05&theme=chartreuse_dark" width="30%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhangPham05&theme=chartreuse_dark" width="30%" />
-
 <img src="https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%" />
 
 </div>
