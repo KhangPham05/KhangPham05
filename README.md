@@ -70,9 +70,8 @@ STATUS="Always learning, always shipping"
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KhangPham05&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=KhangPham05&theme=chartreuse-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" width="48%" />
 </div>
 
 ---
