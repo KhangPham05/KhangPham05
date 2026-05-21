@@ -70,8 +70,8 @@ STATUS="Always learning, always shipping"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KhangPham05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhangPham05&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhangPham05&theme=chartreuse-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham05&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" width="48%" />
 </div>
 
 ---
