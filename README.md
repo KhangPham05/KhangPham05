@@ -76,15 +76,15 @@ STATUS="Always learning, always shipping"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 2 hrs 39 mins
+Total Time: 2 hrs 30 mins
 
-Python       2 hrs 6 mins          ███████████████████▓░░░░░   79.07 %
-Git Config   13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-SQL          11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Markdown     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-TypeScript   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Python       1 hr 49 mins          ██████████████████░░░░░░░   72.25 %
+Markdown     15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Git Config   13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+SQL          11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
