@@ -76,15 +76,15 @@ STATUS="Always learning, always shipping"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 12 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
-Total Time: 6 hrs 39 mins
+Total Time: 6 hrs 17 mins
 
-Markdown      2 hrs 23 mins         █████████░░░░░░░░░░░░░░░░   35.43 %
-YAML          1 hr 41 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-TeX           1 hr 30 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
-Python        39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Image (svg)   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Markdown      2 hrs 21 mins         █████████▒░░░░░░░░░░░░░░░   37.13 %
+TeX           1 hr 30 mins          ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+YAML          1 hr 23 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Python        39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Image (svg)   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
