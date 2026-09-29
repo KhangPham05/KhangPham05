@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=2F80ED&width=780&lines=Software+Engineering+%40+San+Jose+State+University;Technical+Product+Engineer+%40+Evodyne+Robotics;Cloud+Infrastructure+%7C+Kubernetes+%7C+CI%2FCD+Automation;Building+CloudForge+%E2%80%94+a+Kubernetes+Operator)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KhangPham05&color=00ff41&style=flat-square&label=VISITORS)](https://github.com/KhangPham05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-pham-cs)
+
+🔍 **Actively seeking Summer 2027 Infrastructure / Platform / Cloud / SRE internships**
 
 ---
 
