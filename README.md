@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Total Time: 2 hrs 9 mins
+Total Time: 1 hr 6 mins
 
-Markdown     1 hr 22 mins          ████████████████░░░░░░░░░   63.83 %
-TeX          42 mins               ████████▒░░░░░░░░░░░░░░░░   33.21 %
-YAML         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown     52 mins               ████████████████████░░░░░   79.42 %
+TeX          9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+YAML         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
