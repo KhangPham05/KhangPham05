@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 8 hrs 41 mins
+Total Time: 11 hrs 57 mins
 
-Markdown      4 hrs 39 mins         ████████████▓░░░░░░░░░░░░   51.17 %
-TeX           1 hr 36 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-YAML          1 hr 10 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Go            39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Image (svg)   32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown          7 hrs 9 mins          ██████████████▒░░░░░░░░░░   57.72 %
+YAML              1 hr 13 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+TeX               54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Java              50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Go                36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->
